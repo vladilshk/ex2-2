@@ -1,0 +1,41 @@
+Martin Iden
+Jack London
+500
+0
+The Sea Wolf
+Jack London
+10000
+1
+War and Peace
+Leo Tolstoy
+200
+2
+And Quit Flows the Don
+Mikhail Sholokhov
+300
+3
+The Fate of a Man
+Mikhoil Sholokhov
+120
+4
+Dubrovsky
+Alexander Pushkin
+300
+5
+Poltava
+Alexander Pushikn
+200
+6
+A her of Our Time
+Mikhoil Lermontov
+700
+7
+Dead Souls
+Nikolai Gogol
+1000
+8
+Flowers for Algernon
+Daniel Keyes
+400
+9
+/
